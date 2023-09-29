@@ -1,0 +1,416 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (BoomZ Game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Animation.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\animation.cpp(6): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\animation.cpp(7): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Bullet.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(19): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(37): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(42): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(63): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(85): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(110): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(123): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(127): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(128): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(143): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(149): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(156): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(160): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\bullet.cpp(161): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Collision.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\collision.cpp(63): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\collision.cpp(64): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\collision.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\collision.cpp(67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\collision.cpp(121): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\collision.cpp(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\collision.cpp(127): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\collision.cpp(130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(39): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(40): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(55): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(66): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(74): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(79): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(84): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(94): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(97): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(104): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(135): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\enemy.cpp(144): warning C4018: '<': signed/unsigned mismatch
+  Enteryourname.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\enteryourname.cpp(11): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\enteryourname.cpp(37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Item.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(21): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(22): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(40): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(41): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(59): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(77): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(85): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(88): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(94): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(115): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(127): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(155): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(161): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(165): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(169): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(180): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(189): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(348): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(350): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(351): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(367): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\item.cpp(391): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(33): warning C4215: nonstandard extension used: long float
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(58): warning C4305: 'argument': truncation from 'int' to 'bool'
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(171): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(221): warning C4305: 'argument': truncation from 'int' to 'bool'
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(246): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(273): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Map.cpp
+  Menu.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(18): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(19): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(20): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(21): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(22): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(23): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(24): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(25): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(31): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(37): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(54): warning C4305: 'argument': truncation from 'int' to 'bool'
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(218): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(229): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(237): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(239): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(247): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(284): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(289): warning C4018: '<': signed/unsigned mismatch
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(320): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\menu.cpp(327): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Player.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\player.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\player.cpp(13): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\player.cpp(14): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\player.cpp(32): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\player.cpp(33): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\player.cpp(121): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\player.cpp(125): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\player.cpp(140): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\player.cpp(144): warning C4305: 'argument': truncation from 'double' to 'float'
+  Sprite.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\sprite.cpp(18): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\sprite.cpp(19): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\sprite.cpp(20): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\sprite.cpp(21): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\sprite.cpp(24): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\sprite.cpp(77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\learn\visual studio 2017\boomz game\boomz game\sprite.cpp(82): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\learn\visual studio 2017\boomz game\boomz game\sprite.cpp(83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating code
+d:\learn\visual studio 2017\boomz game\boomz game\collision.cpp(139): warning C4715: 'Collision::CollisionCheck': not all control paths return a value
+  All 1171 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BoomZ Game.vcxproj -> D:\Learn\Visual Studio 2017\BoomZ Game\Release\Game.exe

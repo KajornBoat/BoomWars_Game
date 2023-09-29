@@ -1,0 +1,15 @@
+﻿  main.cpp
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(33): warning C4215: nonstandard extension used: long float
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(58): warning C4305: 'argument': truncation from 'int' to 'bool'
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(170): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(220): warning C4305: 'argument': truncation from 'int' to 'bool'
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(245): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\learn\visual studio 2017\boomz game\boomz game\main.cpp(272): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BoomZ Game.vcxproj -> D:\Learn\Visual Studio 2017\BoomZ Game\Debug\BoomZ Game.exe
