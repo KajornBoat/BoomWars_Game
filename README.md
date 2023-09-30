@@ -21,3 +21,9 @@
 - เมื่อผ่านด่าน 1 ด่าน แทบสถานะคะแนน จะเพิ่มขึ้น
 - อาวุธที่ขว้างออกไปจะเคลื่อนที่วิถีโค้งอัตโนมัติ
 - เมื่ออาวุธที่ขว้างออกไปเกิดการชนจะระเบิด
+
+### รูปภาพ
+
+![App Screenshot](https://i.ibb.co/zJpQPZj/Screenshot-2023-09-30-161803.png)
+![App Screenshot](https://i.ibb.co/P6nMn4v/Screenshot-2023-09-30-162226.png)
+![App Screenshot](https://i.ibb.co/LYsCw4B/Screenshot-2023-09-30-161925.png)
